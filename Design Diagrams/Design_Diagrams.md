@@ -8,7 +8,7 @@ Arrows represent inputs and outputs directionally, rectangles represent actions 
 
 This diagram shows the basic functionality of the project at a high level.  The user indicates a desired stock ticker, and the project displays the sentiment analysis of the stock.
 
-![design 0](designdiag0.png)
+![design 0](designdiag0.PNG)
 
 ### Design 1:
 
@@ -18,7 +18,7 @@ Arrows represent inputs and outputs directionally, rectangles represent actions 
 
 This diagram shows more functionality of the project.  The user indicates a desired stock ticker, and the project displays the sentiment analysis of the stock.  In addition, the classifier module is shown, and the sentiment vs financial performance display is shown.
 
-![design 1](designdiag1.png)
+![design 1](designdiag1.PNG)
 
 ### Design 2:
 
@@ -28,4 +28,4 @@ Arrows represent inputs and outputs directionally, rectangles represent actions 
 
 This diagram shows all major functionality of the project.  The user indicates a desired stock ticker, and the project displays the sentiment analysis of the stock.  In addition, the classifier module is shown, and the sentiment vs financial performance display is shown.  This diagram breaks down how the classifier will assign its score, and how operations are repeated to show change over time in the displayed results.
 
-![design 2](designdiag2.png)
+![design 2](designdiag2.PNG)
