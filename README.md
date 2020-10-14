@@ -11,7 +11,7 @@ Money Mood
 
 # Faculty Advisor:
 
-TBD
+Professor Boyang Wang
 
 # Project Topic Area:
 
